@@ -1,0 +1,10 @@
+F:\ProjectsVS\Serialization\Serialization\bin\Debug\Serialization.exe.config
+F:\ProjectsVS\Serialization\Serialization\bin\Debug\Serialization.exe
+F:\ProjectsVS\Serialization\Serialization\bin\Debug\Serialization.pdb
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.Form1.resources
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.cache
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.exe
+F:\ProjectsVS\Serialization\Serialization\obj\Debug\Serialization.pdb
